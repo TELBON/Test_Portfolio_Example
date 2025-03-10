@@ -30,12 +30,17 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+ul {
+    list-style: none;
+    padding: 0;
+}
+
 ul li{
     background-color: #f4f4f9;
-    border-left: 4px solid #530000;
+    border-left: 4px solid #333;
     margin: 0.5rem;
     padding: 0.5rem;
-}ы
+}
 
 footer {
     background-color: #f2e8c9;
@@ -44,4 +49,4 @@ footer {
     padding: 1em 0;
     width: 100%;
     bottom:0;
-} 
+}     
